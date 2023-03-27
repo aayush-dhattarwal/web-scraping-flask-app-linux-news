@@ -6,7 +6,6 @@ https://linux-news-ad.onrender.com/
 # Demo Screenshots
 ![chrome_L4nD3HPFbM](https://user-images.githubusercontent.com/29508011/228037140-5c5b511f-e229-4460-8d5f-fe810385711a.png)
 ![chrome_OI1CgbMcW7](https://user-images.githubusercontent.com/29508011/228037191-c2e22478-5184-493a-8b3c-fb24baa373e9.png)
-![chrome_3AFCjFCSP1](https://user-images.githubusercontent.com/29508011/228037209-e9e91ddc-9672-4efb-bcb9-4caa665e8a16.png)
 
 # Tech Stack
 •	Front-End: HTML, CSS, Javascript
