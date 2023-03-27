@@ -7,7 +7,7 @@ https://linux-news-ad.onrender.com/
 
 •	Back-End: Flask
 
-•	IDE: Jupyter Notebook, Pycharm
+•	IDE: Pycharm
 
 # How to run this app
 1) Clone this repository
