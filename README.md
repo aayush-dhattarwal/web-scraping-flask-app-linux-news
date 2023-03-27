@@ -2,6 +2,12 @@
 The Downloadable Linux News Web Scraping Project is a web application that uses the BeautifulSoup library to scrape the latest Linux news headlines from the website https://www.linuxtoday.com/. The project is built using the Flask framework, which is a Python-based web framework for developing web applications. The project is designed to provide real-time updates as soon as the site updates. This means that users can always stay up-to-date with the latest Linux news without having to manually check the website. The scraped news headlines are presented in the form of an image on the project URL. This image can be downloaded and used for social media posting automation. This feature allows users to easily share the latest Linux news updates with their social media followers without having to manually create and post updates. Also, the image background changes each time the user reloads the site as shown in screenshots.
 # Project Website
 https://linux-news-ad.onrender.com/
+
+# Demo Screenshots
+![chrome_L4nD3HPFbM](https://user-images.githubusercontent.com/29508011/228037140-5c5b511f-e229-4460-8d5f-fe810385711a.png)
+![chrome_OI1CgbMcW7](https://user-images.githubusercontent.com/29508011/228037191-c2e22478-5184-493a-8b3c-fb24baa373e9.png)
+![chrome_3AFCjFCSP1](https://user-images.githubusercontent.com/29508011/228037209-e9e91ddc-9672-4efb-bcb9-4caa665e8a16.png)
+
 # Tech Stack
 •	Front-End: HTML, CSS, Javascript
 
